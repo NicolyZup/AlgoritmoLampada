@@ -1,0 +1,9 @@
+Trocar a Lampada
+
+1.Pegue uma cadeira ou escada
+2.Posicione a cadeira/escada abaixo da lampada a ser trocada
+3.Suba ate a altura da lampada a ser trocada
+4.Retire a lampada a ser trocada
+5.Coloque a lampada nova
+6.Desça da cadeira/escada
+7.fim
